@@ -1,4 +1,4 @@
 # webhooksdemo
-Webhooks Demo
-Uploaded site to azure
-add-bindingredirect
+- Webhooks Demo
+- Uploaded site to azure
+- add-bindingredirect
